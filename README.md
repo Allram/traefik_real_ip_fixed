@@ -16,8 +16,8 @@ pilot:
 experimental:
   plugins:
     traefik-real-ip:
-      modulename: github.com/soulbalz/traefik-real-ip
-      version: v1.0.3
+      modulename: github.com/Allram/traefik_real_ip_fixed
+      version: v1.0.6
 ```
 
 ### Dynamic configuration
